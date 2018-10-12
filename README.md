@@ -7,6 +7,6 @@ Funções:
   3. Profundidade
   4. Altura
   5. Remove
-  6. Imprimir nos seguintes métodos:
+  6. Imprimir nos seguintes métodos: Prefixado, Interfixado, Posfixado
   
-    6.1 Prefixado, Interfixado, Posfixado
+
