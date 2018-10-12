@@ -8,4 +8,5 @@ Funções:
   4. Altura
   5. Remove
   6. Imprimir nos seguintes métodos:
+  
     6.1 Prefixado, Interfixado, Posfixado
