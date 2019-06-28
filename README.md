@@ -2,7 +2,7 @@
 Trabalho de Estrutura de Dados
 
 Funções:
-  1. Inseri
+  1. Inserir
   2. Busca
   3. Profundidade
   4. Altura
