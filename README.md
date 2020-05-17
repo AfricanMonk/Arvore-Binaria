@@ -9,6 +9,6 @@ Trabalho de Estrutura de Dados
 5. Remove
 6. Imprimir nos seguintes métodos: Prefixado, Interfixado, Posfixado
 
-## [](<[https://github.com/Josuebmota/ApiSpringBoot](https://github.com/Josuebmota/ApiSpringBoot)#autor>)Autor
+## [](<[https://github.com/Josuebmota/Arvore-Binaria](https://github.com/Josuebmota/Arvore-Binaria)#autor>)Autor
 
 - **Josué Batista Mota** - [GitHub](https://github.com/Josuebmota) - Email: [josuebatistam1@gmail.com](mailto:josuebatistam1@gmail.com)
